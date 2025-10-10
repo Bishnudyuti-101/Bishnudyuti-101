@@ -1,42 +1,65 @@
-# Hello, I'm Bishnudyuti 
+# Hi there 👋, I'm Bishnudyuti Giri
 
-### About Me
-I am a dedicated and versatile software developer with a strong foundation in various technologies and programming languages. With a passion for continuous learning and problem-solving, I am committed to developing innovative solutions and contributing to impactful projects.
+## 🚀 Full Stack Web & AI Developer
+I am a **Full Stack Web Developer** passionate about building **secure, scalable, and future-ready applications**.  
+I specialize in **Next.js, MERN Stack, Tailwind CSS, Node.js, MongoDB, Python, and AI integration**, and I enjoy turning ideas into practical digital products that deliver measurable impact.
 
-## Professional Expertise
-1. **Software Development:** Proven experience in building and optimizing software applications.
-2. **Artificial Intelligence & Machine Learning:** Skilled in developing intelligent systems and integrating machine learning models.
-3. **Game Development:** Expertise in creating engaging and interactive games using Pygame, with a focus on animation and game mechanics.
-4. **Web Technologies:** Proficient in designing and implementing web solutions using HTML, CSS, JavaScript, and Flask.
+> “Invent with purpose, build with ambition, upgrade humanity.” 🌍
 
-## Skills
-1. **Programming Languages:** Python, C, SQL
-2. **Web Development:** HTML, CSS, JavaScript, Flask
-3. **Game Development:** Pygame, Animation, Game Mechanics
-4. **Tools & Frameworks:** GitHub, Flask, Pygame
-5. **Additional Skills:** AI Prompting, Data Structures and Algorithms, SQL Queries
+---
 
-## Current Learning
-1. Advanced Python Programming
-2. Game Development with Pygame
-3. Web Development with Flask
-4. SQL and Database Management
+## 🛠️ My Tech Stack
+I work with modern technologies and frameworks to develop efficient and maintainable solutions:  
 
-## Collaboration Opportunities
-I am eager to collaborate on:
-1. Open-source projects
-2. AI and machine learning initiatives
-3. Advanced game development projects
-4. Innovative web development solutions
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## Contact
-You can reach me through:
-1. [Facebook](https://www.facebook.com/profile.php?id=61556164139046)
-2. [Email](Bishnudyutigiri12@gmail.com)
+---
 
-## Pronouns
-He/Him
+## 💻 Projects
+I have developed multiple **full-stack web applications** and digital solutions across domains like service marketplaces, tourism platforms, chat applications, time management tools, and entertainment apps.  
+All of my projects are **hosted and showcased live on my portfolio**:
 
-## Fun Fact
-I thrive on solving complex coding challenges and love bringing new ideas to life. One of my achievements includes developing a complete game from scratch over a weekend!
-I look forward to connecting with professionals and exploring collaborative opportunities.
+🌐 **Portfolio & Live Projects:** [https://bishnudyuti.vercel.app](https://bishnudyuti.vercel.app)
+
+I continuously update my portfolio with new projects, demonstrating my expertise in **frontend, backend, AI integration, and cloud deployment**.
+
+---
+
+## 📈 GitHub Stats
+Here are my contribution stats and activity:  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishnudyuti-101&show_icons=true&theme=radical&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bishnudyuti-101&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+- Advanced AI integration in web applications  
+- Scalable full-stack SaaS platforms  
+- Cloud deployment optimization with Vercel, Netlify, and Firebase
+
+---
+
+## 📫 Connect with Me
+I am open to collaborations, internships, and full-time opportunities. You can reach me via:  
+
+[![Email](https://img.shields.io/badge/Email-Bishnudyutigiri12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bishnudyutigiri12@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishnu101)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-bishnudyuti.vercel.app-4ABF84?style=for-the-badge)](https://bishnudyuti.vercel.app)
+
+---
+
+## ⚡ What I Offer
+- **Full Stack Web Development:** Building scalable, secure web applications using modern frameworks.  
+- **AI Integration:** Incorporating AI and automation to enhance application intelligence.  
+- **Project Delivery:** Efficiently handling end-to-end development, deployment, and maintenance.  
+- **Innovative Solutions:** Turning ideas into digital products that are practical, secure, and impactful.
